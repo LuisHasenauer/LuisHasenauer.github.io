@@ -8,4 +8,4 @@ date: 2024-01-01
 location: "Milwaukee, WI"
 ---
 
-I held three discussion sections of Math 208 with 30 students each in Fall 2024 and Sping 2025.
+I held three discussion sections of Math 208 with 30 students each in Fall 2024.
