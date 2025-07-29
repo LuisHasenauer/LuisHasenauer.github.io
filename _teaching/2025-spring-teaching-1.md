@@ -2,7 +2,7 @@
 title: "Math 208, Quantitative Models for Business"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-spring-teaching-1.md
+permalink: /teaching/2025-spring-teaching-1
 venue: "University of Wisconsin-Milwaukee"
 date: 2025-01-01
 location: "Milwaukee, WI"
