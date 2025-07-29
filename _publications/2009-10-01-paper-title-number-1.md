@@ -5,10 +5,10 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-01-01
-venue: '?'
+venue: 'tbd'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: Matthias Grajewski, Luis Hasenauer, Janis Papewalis, Stefan Vögele, Dirk Rübbelke. (2025). &quot;Reverse-engineering stakeholders’ attitudes from observed preferences and quantitative data by Inverse Stochastic Multicriteria Acceptability Analysis.&quot; <i>tbd</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+One of the major challenges in practical applications of Multicriteria Decision Analysis (MCDA) is that necessary input data like the performance matrix, the weights and parameters of the MCDA method are known only with uncertainty or not at all and are in many cases hard to assess. As a remedy, we present two inverse stochastic MCDA approaches which allow for refined estimates of these input data from observed preferences and rankings or quantitative information as market shares. Using a Bayesian approach, our methods are capable of incorporating prior knowledge about that data from various sources of information in an objective and systematic way. We investigate the proposed methods using selected test examples and apply them to a real-world preference analysis associated to the mobility transition in Europe. An open-source python implementation of the methods is avialable on github.
