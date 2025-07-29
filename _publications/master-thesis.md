@@ -4,7 +4,7 @@ collection: publications
 category: academics
 permalink: /publication/master-thesis
 date: 2025-01-01
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://LuisHasenauer.github.io/files/Hasenauer_MS_Thesis.pdf'
 citation: Luis Hasenauer. (2025). &quot;Bootstrap-Based Robustness Analysis of Parameter Optimization in Climate Models Using QuadTune.&quot; <i>tbd</i>. 1(1).'
 ---
 Tuning the parameters of climate models is essential for improving their performance, but this process is often complicated by structural limitations, overfitting, and trade-offs between different regions or variables. This thesis combines the QuadTune optimization framework with nonparametric bootstrap resampling to analyze parameter uncertainty and identify tuning conflicts.
