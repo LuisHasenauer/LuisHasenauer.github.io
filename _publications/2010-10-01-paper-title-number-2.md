@@ -3,7 +3,7 @@ title: "SMAApy"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2025-01-02
 venue: 'tbd'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
