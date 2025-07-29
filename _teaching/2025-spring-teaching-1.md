@@ -10,3 +10,19 @@ location: "Milwaukee, WI"
 
 I held three discussion sections of Math 208 with 30 students each in Spring 2025.
 
+The class covered the following content:
+
+Financial Mathematics
+======
+
+Linear Algebra
+======
+
+Statistics
+======
+
+Calculus
+======
+
+Optimization
+======
