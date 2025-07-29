@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-1.md
 venue: "University of Wisconsin-Milwaukee"
-date: "2024"
+date: 2024-01-01
 location: "Milwaukee, WI"
 ---
 
