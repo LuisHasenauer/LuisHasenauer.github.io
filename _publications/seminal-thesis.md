@@ -4,7 +4,7 @@ collection: publications
 category: academics
 excerpt: ""
 permalink: /publication/seminal-thesis
-date: 2023-02-01
+date: 2022-12-01
 citation: Luis Hasenauer. (2023). &quot;Bayesian statistics in the context of Multi Criteria Decision Analysis (MCDA).&quot;'
 ---
 A common way to model decision makers’ preferences in Multi Criteria Decision Analysis (MCDA) problems is through weights representing the relative importance of specific criteria. The elicitation of these weights is a significant task that has an immediate impact on the reliability and usefulness of the decision-making process. Bayesian inference can be used to update prior beliefs about a statistical model by combining them with information contained in observed data. This can be used in an MCDA context to gain insight on
