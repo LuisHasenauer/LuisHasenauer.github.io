@@ -16,7 +16,7 @@ My academic journey has combined research and teaching across multiple instituti
 Research Interests
 ======
 - Statistical modeling & uncertainty quantification
-- Machine learning and time series
-- Financial statistics and stochastic processes
+- Machine learning & time series
+- Financial statistics & stochastic processes
 - Bayesian inference & Monte Carlo methods
 
