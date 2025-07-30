@@ -6,7 +6,7 @@ excerpt: ""
 permalink: /publication/bachelor-thesis
 date: 2023-08-08
 paperurl: 'http://LuisHasenauer.github.io/files/Hasenauer_BS_Thesis.pdf'
-citation: '**Luis Hasenauer**'
+citation: <b>Luis Hasenauer</b>
 ---
 In many situations, decision-makers face complex challenges that require robust and effective decision-making processes. Multi Criteria Decision Analysis (MCDA) has become a valuable technique to assist decision-makers in weighing multiple competing criteria and making or analyzing decisions. MCDA methods highly rely on a performance matrix, which captures the evaluations of alternatives against various criteria. However, in many cases these methods use fixed performance matrices even though real-world decision problems often involve uncertainties in the evaluations that can significantly impact the accuracy and reliability of the performance matrix.<br>
 <br>
