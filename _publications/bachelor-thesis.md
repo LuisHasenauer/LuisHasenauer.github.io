@@ -2,7 +2,7 @@
 title: "Stochastic methods for uncertain performance matrices in Multi-Criteria Decision Analysis with an application to the transition process towards sustainable mobility"
 collection: publications
 category: academics
-excerpt: "Bachelor's thesis at FH Aachen"
+excerpt: "Bachelor's thesis at the Fh Aachen Unversity of Applied Sciences"
 permalink: /publication/bachelor-thesis
 date: 2023-08-08
 paperurl: 'http://LuisHasenauer.github.io/files/Hasenauer_BS_Thesis.pdf'
