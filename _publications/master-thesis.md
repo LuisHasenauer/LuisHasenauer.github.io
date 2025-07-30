@@ -2,7 +2,7 @@
 title: "Bootstrap-Based Robustness Analysis of Parameter Optimization in Climate Models Using QuadTune"
 collection: publications
 category: academics
-excerpt: ""
+excerpt: "Master's thesis at the University of Wisconsin-Milwaukee"
 permalink: /publication/master-thesis
 date: 2025-01-01
 paperurl: 'http://LuisHasenauer.github.io/files/Hasenauer_MS_Thesis.pdf'
