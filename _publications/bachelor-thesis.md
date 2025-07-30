@@ -5,6 +5,7 @@ category: academics
 excerpt: ""
 permalink: /publication/bachelor-thesis
 date: 2023-08-01
+paperurl: 'http://LuisHasenauer.github.io/files/Hasenauer_BS_Thesis.pdf'
 citation: Luis Hasenauer. (2023). &quot;Stochastic methods for uncertain performance matrices in Multi-Criteria Decision Analysis with an application to the transition process towards sustainable mobility.&quot;'
 ---
 In many situations, decision-makers face complex challenges that require robust and effective decision-making processes. Multi Criteria Decision Analysis (MCDA) has become a valuable technique to assist decision-makers in weighing multiple competing criteria and making or analyzing decisions. MCDA methods highly rely on a performance matrix, which captures the evaluations of alternatives against various criteria. However, in many cases
