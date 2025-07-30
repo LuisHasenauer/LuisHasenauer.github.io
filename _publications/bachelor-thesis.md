@@ -4,7 +4,7 @@ collection: publications
 category: academics
 excerpt: ""
 permalink: /publication/bachelor-thesis
-date: 2023-08-01
+date: 2023-08-08
 paperurl: 'http://LuisHasenauer.github.io/files/Hasenauer_BS_Thesis.pdf'
 citation: Luis Hasenauer. (2023). &quot;Stochastic methods for uncertain performance matrices in Multi-Criteria Decision Analysis with an application to the transition process towards sustainable mobility.&quot;'
 ---
