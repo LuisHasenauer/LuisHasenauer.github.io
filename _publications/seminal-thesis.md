@@ -2,7 +2,7 @@
 title: "Bayesian statistics in the context of Multi Criteria Decision Analysis (MCDA)"
 collection: publications
 category: academics
-excerpt: ""
+excerpt: "Seminal paper at the Fh Aachen Unversity of Applied Sciences"
 permalink: /publication/seminal-thesis
 date: 2022-12-16
 paperurl: 'http://LuisHasenauer.github.io/files/Hasenauer_Seminal_Thesis.pdf'
