@@ -4,7 +4,7 @@ collection: publications
 category: academics
 excerpt: "Master's thesis at the University of Wisconsin-Milwaukee"
 permalink: /publication/master-thesis
-date: 2025-01-01
+date: 2025-05-01
 paperurl: 'http://LuisHasenauer.github.io/files/Hasenauer_MS_Thesis.pdf'
 citation: <b>Luis Hasenauer</b>
 ---
